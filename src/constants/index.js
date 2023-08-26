@@ -33,22 +33,22 @@ export const products = [
     {
         imgURL: shoe4,
         name: "Nike Air Jordan-01",
-        price: "$200.20",
+        price: "Ksh 10,000",
     },
     {
         imgURL: shoe5,
         name: "Nike Air Jordan-10",
-        price: "$210.20",
+        price: "Ksh 10,000",
     },
     {
         imgURL: shoe6,
         name: "Nike Air Jordan-100",
-        price: "$220.20",
+        price: "Ksh 10,000",
     },
     {
         imgURL: shoe7,
         name: "Nike Air Jordan-001",
-        price: "$230.20",
+        price: "Ksh 10,000",
     },
 ];
 
@@ -111,8 +111,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "admin@bhakitah.co.ke", link: "mailto:admin@bhakitah.co.ke" },
+            { name: "+254727761646", link: "tel:+254727761646" },
         ],
     },
 ];
